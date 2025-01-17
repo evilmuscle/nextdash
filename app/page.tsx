@@ -2,8 +2,8 @@ import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import {lus} from '@/app/ui/font';
-import dek_image from '@/public/hero-desktop.png';
-import mob_image from '@/public/hero-mobile.png';
+import dek_image from '../public/hero-desktop.png';
+import mob_image from '../public/hero-mobile.png';
 import Image from 'next/image';
 export default function Page() {
   return (
